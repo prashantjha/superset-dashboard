@@ -1,12 +1,12 @@
-# Superset-dashboard
+# Superset-dashboard #
 A superset dashboard tutorail.
 
-# Add database in superset
+## Add database in superset ##
 
-# Add tables in superset
+## Add tables in superset ##
 
-# Create a slice
+## Create a slice ##
 
-# Add slice to dashboard
+## Add slice to dashboard ##
 
-# Add filter slice and add same to dshboard
+## Add filter slice and add same to dshboard ##
