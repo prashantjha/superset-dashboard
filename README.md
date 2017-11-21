@@ -3,7 +3,14 @@ A superset dashboard tutorail.
 
 ## Add database in superset ##
 
-![add-sources](https://github.com/prashantjha/superset-dashboard/blob/master/images/Sources.png)
+![create-sources](https://github.com/prashantjha/superset-dashboard/blob/master/images/Sources.png)
+
+</br>
+
+### Add sources ###
+![add-sources](https://github.com/prashantjha/superset-dashboard/blob/master/images/addsource.png)
+
+</br>
 
 ## Add tables in superset ##
 
