@@ -12,6 +12,18 @@ A superset dashboard tutorail.
 
 </br>
 
+
+### Add database details ###
+![add-sources](https://github.com/prashantjha/superset-dashboard/blob/master/images/dbdetails.png)
+
+</br>
+
+
+### Test connection ###
+![add-sources](https://github.com/prashantjha/superset-dashboard/blob/master/images/sucessconnection.png)
+
+</br>
+
 ## Add tables in superset ##
 
 ## Create a slice ##
