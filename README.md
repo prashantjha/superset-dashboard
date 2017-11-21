@@ -3,6 +3,8 @@ A superset dashboard tutorail.
 
 ## Add database in superset ##
 
+![add-sources](https://github.com/prashantjha/superset-dashboard/blob/master/images/Sources.png)
+
 ## Add tables in superset ##
 
 ## Create a slice ##
